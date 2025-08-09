@@ -1,1 +1,41 @@
 # Nargis-portfolio
+# 🌟 My Personal Portfolio
+
+This is my **personal portfolio website** built using **React** and **Tailwind CSS**, showcasing my projects, skills, and contact details.
+
+## 🚀 Live Demo
+[Click here to view my portfolio]https://nargis-portfolio-fbu6.vercel.app/
+
+---
+
+## 📌 Features
+- Responsive design (works on all devices 📱💻)
+- Smooth animations and transitions
+- Dark-themed modern UI
+- Sections for:
+  - Hero
+  - About Me
+  - Skills
+  - Projects
+  - Contact Form
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Deployment:** Vercel
+
+---
+
+## 📂 Folder Structure
+```bash
+portfolio/
+ ├── public/
+ ├── src/
+ │   ├── assets/        # Images & icons
+ │   ├── components/    # Reusable components
+ │   ├── pages/         # Page sections
+ │   ├── App.jsx        # Main app component
+ │   └── index.js       # Entry point
+ ├── package.json
+ └── tailwind.config.js
