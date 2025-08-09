@@ -7,6 +7,7 @@ This is my **personal portfolio website** built using **React** and **Tailwind C
 [Click here to view my portfolio]https://nargis-portfolio-fbu6.vercel.app/
 
 ---
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d751d76f-7b9b-4f28-8421-f9a1f078b056" />
 
 ## 📌 Features
 - Responsive design (works on all devices 📱💻)
